@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+build
+dist
+*.egg-info
+*.wav
+.gitignore
+clicks/
+*.mp3
+*.replay
+env/
+*.dat
+.vscode/
+*.zbf
+ffmpeg/
